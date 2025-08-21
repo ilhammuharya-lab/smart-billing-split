@@ -1,0 +1,11 @@
+--index-url https://download.pytorch.org/whl/cpu
+torch==2.2.1
+torchvision==0.17.1
+torchaudio==2.2.1
+transformers==4.34.0
+streamlit==1.28.1
+Pillow==10.1.0
+xmltodict==0.13.0
+accelerate==0.25.0
+sentencepiece==0.2.0
+protobuf>=4.25.0
